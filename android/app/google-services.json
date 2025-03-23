@@ -1,0 +1,222 @@
+{
+  "project_info": {
+    "project_number": "106769893211",
+    "project_id": "breathin-24eff",
+    "storage_bucket": "breathin-24eff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106769893211:android:bf77a804221d21e4e43c7e",
+        "android_client_info": {
+          "package_name": "com.example.breath_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106769893211-42217977oteh6oo9k497sgfj5kal0tif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.breath_in",
+            "certificate_hash": "24b50f6b899d3fd6a16e67cbf8869f9f7f2c2ec2"
+          }
+        },
+        {
+          "client_id": "106769893211-m3flc98vj8kjbbt0ict2j9duv8f7o3pu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.breath_in",
+            "certificate_hash": "e1103592107c79539e48587e4d30e8919a0d0d93"
+          }
+        },
+        {
+          "client_id": "106769893211-qfcpbl8ku37dsp9grl2nittbmu40t8qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHhikZ3hYiLUOGXSdUI_Sz-xCkjw_pw58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106769893211-qfcpbl8ku37dsp9grl2nittbmu40t8qg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "106769893211-dr9bkv9j8alqo78b02ev06elcp19rjlp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.breathIn"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106769893211:android:8a46261276c02089e43c7e",
+        "android_client_info": {
+          "package_name": "com.example.food_app_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106769893211-prl1tev05njdbeuc0972hadmcjof3u51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.food_app_admin",
+            "certificate_hash": "24b50f6b899d3fd6a16e67cbf8869f9f7f2c2ec2"
+          }
+        },
+        {
+          "client_id": "106769893211-qfcpbl8ku37dsp9grl2nittbmu40t8qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHhikZ3hYiLUOGXSdUI_Sz-xCkjw_pw58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106769893211-qfcpbl8ku37dsp9grl2nittbmu40t8qg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "106769893211-dr9bkv9j8alqo78b02ev06elcp19rjlp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.breathIn"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106769893211:android:c2f178bf1c5a53cae43c7e",
+        "android_client_info": {
+          "package_name": "com.example.food_delivery_boy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106769893211-qfcpbl8ku37dsp9grl2nittbmu40t8qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHhikZ3hYiLUOGXSdUI_Sz-xCkjw_pw58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106769893211-qfcpbl8ku37dsp9grl2nittbmu40t8qg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "106769893211-dr9bkv9j8alqo78b02ev06elcp19rjlp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.breathIn"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106769893211:android:196e607d48eb97d9e43c7e",
+        "android_client_info": {
+          "package_name": "com.example.food_delivery_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106769893211-v5e6k7t9h124ele5lsu07rqn4sp5bkec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.food_delivery_user",
+            "certificate_hash": "24b50f6b899d3fd6a16e67cbf8869f9f7f2c2ec2"
+          }
+        },
+        {
+          "client_id": "106769893211-qfcpbl8ku37dsp9grl2nittbmu40t8qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHhikZ3hYiLUOGXSdUI_Sz-xCkjw_pw58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106769893211-qfcpbl8ku37dsp9grl2nittbmu40t8qg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "106769893211-dr9bkv9j8alqo78b02ev06elcp19rjlp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.breathIn"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106769893211:android:a9168af90e63a876e43c7e",
+        "android_client_info": {
+          "package_name": "com.example.ios_notification_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106769893211-qfcpbl8ku37dsp9grl2nittbmu40t8qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHhikZ3hYiLUOGXSdUI_Sz-xCkjw_pw58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106769893211-qfcpbl8ku37dsp9grl2nittbmu40t8qg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "106769893211-dr9bkv9j8alqo78b02ev06elcp19rjlp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.breathIn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
